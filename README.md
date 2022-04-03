@@ -5,6 +5,7 @@
 ![skis_logo](static/skis_about.webp)
 ---
 skis (aka lyzhy (ru,komi)) is a nice simple instrument to get faster!
+[live demo](http://skis.host)
 
 #### skis uses:
 - _sveltekit_
