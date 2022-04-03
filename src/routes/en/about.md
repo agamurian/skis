@@ -1,3 +1,4 @@
+<div class="container my-5">
 # skis
 
 #### Static Site Generator based on sveltekit + mdsvex + i18n + bootstrap5
@@ -49,3 +50,5 @@ Make fast sites, fast.
 ---
 
 skis is developed by AGAMURIAN
+
+</div>
