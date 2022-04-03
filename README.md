@@ -1,11 +1,9 @@
 # skis
 
-### sveltkit based static site generator
-
-#### amazing jamstack solution with bootstrap5
+#### Static Site Generator based on sveltekit + mdsvex + i18n + bootstrap5
 
 ![skis logo](skis.png)
-
+---
 skis (aka lyzhy (ru,komi)) is a nice simple instrument to get faster!
 
 #### skis uses:
