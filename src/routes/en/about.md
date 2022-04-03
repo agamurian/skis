@@ -42,9 +42,9 @@ yarn build
 
 ---
 
-# Copabilities:
+# Capabilities:
 
-#### All svelte copabilities + sveltekit routing and ssg + mdsvex amazing preprocessing + i18n built in + Bootstrap5 css
+#### All svelte capabilities + sveltekit routing and ssg + mdsvex amazing preprocessing + i18n built in + Bootstrap5 css
 Make fast sites, fast.
 
 ---
