@@ -33,7 +33,7 @@
 </script>
 
 <nav bind:this="{navBar}" class="black nav sticky-top navbar-expand-lg rounded-0 sm" >
-    <div class="container-fluid d-flex flex-wrap flex-column flex-lg-row justify-content-start align-items-start inline inline-block" style="background-color: #83674566">
+    <div class="container-fluid d-flex flex-wrap flex-column flex-lg-row justify-content-start align-items-start inline inline-block" style="background-color: #306040aa">
             <div class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false"
@@ -44,7 +44,7 @@
                 </span> -->
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <img src="/skis-logo.png" width="26" height="26" style="margin-right: 8px;"/>
+        <img src="/skis_logo.png" width="26" height="26" style="margin-right: 8px;"/>
         <a class="navbar-brand" href="/{$locale}/">skis</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">

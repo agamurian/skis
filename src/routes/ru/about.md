@@ -4,7 +4,6 @@
 
 ####  Статичный генератор сайтов на sveltekit + mdsvex + i18n + bootstrap5
 
-![skis logo](static/skis_about.webp)
 ---
 skis (или лыжы (рус, коми)) это отличный и простой способ стать быстрее!
 

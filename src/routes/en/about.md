@@ -1,9 +1,9 @@
 <div class="container my-5">
+
 # skis
 
 #### Static Site Generator based on sveltekit + mdsvex + i18n + bootstrap5
 
-![skis logo](static/skis_about.webp)
 ---
 skis (aka lyzhy (ru,komi)) is a nice simple instrument to get faster!
 
