@@ -17,6 +17,7 @@ skis (aka lyzhy (ru,komi)) is a nice simple instrument to get faster!
 ---
 
 ## Install:
+##### note that this template might not work with node v16, download node v14 (or via nvm)
 ```
 git clone https://github.com/agamurian/skis.git
 cd skis
